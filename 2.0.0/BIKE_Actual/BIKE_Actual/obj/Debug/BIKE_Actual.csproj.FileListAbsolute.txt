@@ -1,0 +1,11 @@
+D:\VS Projects\BIKE_Actual\BIKE_Actual\bin\Debug\BIKE_Actual.exe.config
+D:\VS Projects\BIKE_Actual\BIKE_Actual\bin\Debug\BIKE_Actual.exe
+D:\VS Projects\BIKE_Actual\BIKE_Actual\bin\Debug\BIKE_Actual.pdb
+D:\VS Projects\BIKE_Actual\BIKE_Actual\obj\Debug\BIKE_Actual.csproj.AssemblyReference.cache
+D:\VS Projects\BIKE_Actual\BIKE_Actual\obj\Debug\BIKE_Actual.csproj.SuggestedBindingRedirects.cache
+D:\VS Projects\BIKE_Actual\BIKE_Actual\obj\Debug\BIKE_Actual.Form1.resources
+D:\VS Projects\BIKE_Actual\BIKE_Actual\obj\Debug\BIKE_Actual.Properties.Resources.resources
+D:\VS Projects\BIKE_Actual\BIKE_Actual\obj\Debug\BIKE_Actual.csproj.GenerateResource.cache
+D:\VS Projects\BIKE_Actual\BIKE_Actual\obj\Debug\BIKE_Actual.csproj.CoreCompileInputs.cache
+D:\VS Projects\BIKE_Actual\BIKE_Actual\obj\Debug\BIKE_Actual.exe
+D:\VS Projects\BIKE_Actual\BIKE_Actual\obj\Debug\BIKE_Actual.pdb
